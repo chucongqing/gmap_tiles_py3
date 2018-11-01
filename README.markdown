@@ -1,4 +1,7 @@
 ### Download Google Maps tiles
+this is a fork from [https://github.com/nst/gmap_tiles](https://github.com/nst/gmap_tiles)
+
+
 
 Edit `download_tiles.py` to specify the area and the zoom level you want.
 
